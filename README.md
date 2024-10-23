@@ -1,3 +1,3 @@
 # Web-design Project Page
 
-<a href="intro_HTML/index.html">Intro to HTML</a>
+<a href="Intro_HTML/index.html">Intro to HTML</a>

@@ -1,0 +1,27 @@
+body{background-color: bisque;}
+#container{background-color: mediumpurple;
+    width: 1200px;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 20px;
+} 
+img{ 
+  display: block;
+    margin: 0 auto;
+    width: 800px;
+}
+nav{ 
+    text-align: center;
+margin: 20px 0;
+}
+nav a{ 
+    font-size: larger;
+color: aliceblue;
+font-weight: bold;
+}
+nav a:hover { text-decoration:none ;
+
+}
+h1, h2, h3, h4, h5, footer {
+    text-align: center;
+}
